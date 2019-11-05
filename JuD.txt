@@ -2,7 +2,5 @@ Hallo Julius!
 Wie geht es dir?
 
 Gut
-<<<<<<< HEAD
-=======
 Sehr Gut
->>>>>>> refs/remotes/origin/master
+
